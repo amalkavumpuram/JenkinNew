@@ -1,6 +1,6 @@
 import sys
-a = int(sys.argv[1])
-b = int(sys.argv[2])
+i = int(sys.argv[1])
+j = int(sys.argv[2])
 def add(a,b):
     print("ADDITION")
     print(a,"+",b,"=",a+b)
